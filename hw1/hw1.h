@@ -1,3 +1,6 @@
+/*
+HW1 Header File
+*/
 #ifndef __HW1_H__
 #define __HW1_H__
 
