@@ -1,3 +1,8 @@
+/*
+款康眉力 苞格 苞力1 
+Implementing a simple hash table 
+*/
+
 #include "hw1.h"
 
 #define INSERT_OBJECT_SIZE (48)
