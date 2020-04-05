@@ -1,8 +1,3 @@
-/*
-User1 main.c comment
-
-*/
-
 #include "hw1.h"
 #include <malloc.h>
 
